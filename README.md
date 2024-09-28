@@ -44,7 +44,7 @@ python image_generator.py
 - Image Display and Download: The fetched image is displayed in the GUI, and users can download it with a click.
 
 ## Screenshots
-![Application-Screenshot](screenshots/SS.png)
+![Application-Screenshot](SS.png)
 
 
 ## Acknowledgments
