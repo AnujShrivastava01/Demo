@@ -20,31 +20,33 @@ You can install these packages using pip:
 pip install requests
 pip install Pillow
 pip install ttkbootstrap
+```
 
-Usage
+## Usage
 Run the Application: Execute the script using Python:
 
-bash
 Copy code
+```bash
 python image_generator.py
-Generate an Image:
+```
 
-Enter a category (e.g., "nature", "technology", "cars") in the input field.
-Click the "Generate Image" button to fetch a random image.
-Download the Image:
+## Generate an Image:
 
-Once the image is displayed, click the "Download Image" button to save it to your local directory as downloaded_image.jpg.
-Code Explanation
+- Enter a category (e.g., "nature", "technology", "cars") in the input field.
+- Click the "Generate Image" button to fetch a random image.
+- Download the Image:
+
+- Once the image is displayed, click the "Download Image" button to save it to your local directory as downloaded_image.jpg.
+
+## Code Explanation
 Main Window: The application uses Tkinter to create a GUI window where users can interact with the app.
 Image Retrieval: The app retrieves a random image based on the user’s input category from the Unsplash API.
 Image Display and Download: The fetched image is displayed in the GUI, and users can download it with a click.
 Screenshots
 (You can add screenshots of the application in use here)
 
-License
-This project is licensed under the MIT License. See the LICENSE file for details.
 
-Acknowledgments
+## Acknowledgments
 Unsplash API for providing high-quality images.
 Tkinter for the GUI framework.
 Pillow for image handling.
@@ -52,4 +54,5 @@ Contributing
 Contributions are welcome! Please feel free to open issues or submit pull requests.
 
 Contact
-For any inquiries, please contact Your Name.
+- anujshrivastava10e@gmail.com
+
