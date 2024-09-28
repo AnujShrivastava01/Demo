@@ -39,11 +39,12 @@ python image_generator.py
 - Once the image is displayed, click the "Download Image" button to save it to your local directory as downloaded_image.jpg.
 
 ## Code Explanation
-Main Window: The application uses Tkinter to create a GUI window where users can interact with the app.
-Image Retrieval: The app retrieves a random image based on the user’s input category from the Unsplash API.
-Image Display and Download: The fetched image is displayed in the GUI, and users can download it with a click.
-Screenshots
-(You can add screenshots of the application in use here)
+- Main Window: The application uses Tkinter to create a GUI window where users can interact with the app.
+- Image Retrieval: The app retrieves a random image based on the user’s input category from the Unsplash API.
+- Image Display and Download: The fetched image is displayed in the GUI, and users can download it with a click.
+
+## Screenshots
+![Application-Screenshot](screenshots/SS.png)
 
 
 ## Acknowledgments
