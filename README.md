@@ -1,4 +1,4 @@
-# Image Generator
+# Image Generator : 
 
 ## Description
 The Image Generator is a simple GUI application built using Python that allows users to generate and download random images based on specified categories from the Unsplash API. The application is user-friendly, featuring a straightforward interface built with Tkinter and ttkbootstrap.
